@@ -1,0 +1,5 @@
+https://github.com/hyperskill/hs-test-python/archive/release.tar.gz
+pandas
+scikit-learn
+requests
+category_encoders
